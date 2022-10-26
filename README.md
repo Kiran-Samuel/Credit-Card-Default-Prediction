@@ -1,3 +1,7 @@
 # Credit-Card-Default-Prediction
 
 The project deals with predicting credit card defaulters in a bank by using different machine learning models like Random forest, Logisitic regression, Decision tree, XG Boost and SVM and deploying the best model as an API using FastAPI 
+
+
+https://user-images.githubusercontent.com/86650639/197969846-9d2dcdc0-7c79-435f-a54d-1d5ca9f0a8cd.mp4
+
