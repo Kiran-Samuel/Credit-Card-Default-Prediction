@@ -12,6 +12,6 @@ The dataset used for the project is available in the link shown below:
 - https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 
-
+# Demo
 https://user-images.githubusercontent.com/86650639/197969846-9d2dcdc0-7c79-435f-a54d-1d5ca9f0a8cd.mp4
 
