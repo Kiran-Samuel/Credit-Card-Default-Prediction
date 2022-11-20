@@ -6,6 +6,7 @@ The project deals with predicting credit card defaulters in a bank by using diff
 
 # Dataset
 The dataset used for the project is available in the link shown below:
+
 https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 
