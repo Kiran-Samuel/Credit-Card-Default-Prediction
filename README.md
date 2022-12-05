@@ -16,4 +16,4 @@ The dataset used for the project is available in the link shown below:
 https://user-images.githubusercontent.com/86650639/197969846-9d2dcdc0-7c79-435f-a54d-1d5ca9f0a8cd.mp4
 
 # For credit card default prediction
-- Run Project1 Code.ipynb and proceed to the API for prediction
+- Make sure to download the 2 pickled files: **rf_model.pkl** and **scaling.pkl** and run **credit_app.ipynb** and proceed to the API for prediction
