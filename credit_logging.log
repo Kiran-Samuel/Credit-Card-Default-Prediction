@@ -1,0 +1,12 @@
+2022-12-05 13-27-35 - INFO - Dataset loaded
+2022-12-05 13-27-36 - INFO - Renamed the target column
+2022-12-05 13-27-41 - INFO - Unnamed Education categories combined
+2022-12-05 13-27-42 - INFO - Unnamed Marriage category combined
+2022-12-05 13-27-45 - INFO - Created three new columns for exploring data
+2022-12-05 13-27-45 - INFO - Dropping the original columns
+2022-12-05 13-28-00 - INFO - Split data into train and test
+2022-12-05 13-28-02 - INFO - Performed SMOTE to overcome data imbalance
+2022-12-05 13-28-03 - INFO - Created pipelines for all models
+2022-12-05 13-30-14 - INFO - Fitted the models on the training data
+2022-12-05 13-30-32 - INFO - Made predictions on test data with all models
+2022-12-05 13-30-41 - INFO - Ran all models and found model with best accuracy
