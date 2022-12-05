@@ -17,3 +17,8 @@ https://user-images.githubusercontent.com/86650639/197969846-9d2dcdc0-7c79-435f-
 
 # For credit card default prediction
 - Make sure to download the 2 pickled files: **rf_model.pkl** and **scaling.pkl** and run **credit_app.ipynb** and proceed to the API for prediction
+
+## Deployment files
+- rf_model.pkl
+- scaling.pkl
+- credit_app.ipynb
