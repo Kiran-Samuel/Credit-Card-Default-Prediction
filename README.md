@@ -12,7 +12,7 @@ The dataset used for the project is available in the link shown below:
 
 
 # Demo
- https://user-images.githubusercontent.com/86650639/197969846-9d2dcdc0-7c79-435f-a54d-1d5ca9f0a8cd.mp4
+ https://github.com/Kiran-Samuel/Credit-Card-Default-Prediction/blob/main/Video.mp4
 
 # Code
 - The entire classification project can be be tested using the **Project1 Code.ipynb** file 
